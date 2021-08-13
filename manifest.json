@@ -1,0 +1,15 @@
+{
+    "name": " Adblocker",
+    "version": "1.0",
+    "description": "Block all Youtube Ads! Augment your YouTube experience with Fullscreen Theater Mode, Video Screenshot, Volume Booster and many more.",
+    "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "icons": {
+        "16": "icons/logo_16x16.png",
+        "48": "icons/logo_48x48.png",
+        "128": "icons/logo_128x128.png"
+    },
+    "manifest_version": 2 
+}
