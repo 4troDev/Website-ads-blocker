@@ -1,7 +1,7 @@
 {
-    "name": " Adblocker",
+    "name": " Webblocker",
     "version": "1.0",
-    "description": "Block all Youtube Ads! Augment your YouTube experience with Fullscreen Theater Mode, Video Screenshot, Volume Booster and many more.",
+    "description": "Block any website",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
     "background": {
         "scripts": ["background.js"]
