@@ -1,7 +1,7 @@
 {
     "name": " Webblocker",
     "version": "1.0",
-    "description": "Block any website or ads from youtube",
+    "description": "Block any youtube ads or website by blocking request to any ads website.",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
     "background": {
         "scripts": ["background.js"]
